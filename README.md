@@ -218,3 +218,4 @@ in the default browser. The default behavior depends on the platform (see
 for details), but a specific mode can be used on supported platforms by
 passing a `LaunchMode`.
 # url_launcher-6.1.6
+# url_launcher-6.1.6
